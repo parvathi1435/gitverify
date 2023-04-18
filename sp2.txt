@@ -1,4 +1,4 @@
 paru2
-
+local
 Ammadi
 temp
